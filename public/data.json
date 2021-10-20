@@ -1,0 +1,38 @@
+[
+    {
+        "key": 1,
+        "name": " Pediatrics",
+        "img": "https://thqkotsultan.punjab.gov.pk/system/files/pediatric-baby-in-diaper-smiling-and-laughing-while-doctor-listens-to-heart.jpg",
+        "description": " we partner with families to deliver expert, compassionate care to infants, children and teens."
+    },
+    {
+        "key": 2,
+        "name": " Cardiology",
+        "img": "https://www.nm.org//-/media/northwestern/healthbeat/images/health%20library/nm-ten-signs-cardiologist_preview.jpg",
+        "description": "Our comprehensive heart services include general and preventive cardiology, cardiac testing and imaging, specialized cardiology and cardiac surgery."
+    },
+    {
+        "key": 3,
+        "name": " Neurology",
+        "img": "https://chesapeakeregional.com/sites/default/files/2018-12/Neurological-Associates.png",
+        "description": "Our top-rated neurosurgeons use advanced imaging and surgical techniques to treat neurological conditions, such as brain tumors and traumatic brain injury."
+    },
+    {
+        "key": 4,
+        "name": "Cancer Care",
+        "img": "https://www.verywellhealth.com/thmb/z8_0-oxpbpiyCrAuNTiGcqwqSrs=/2121x1414/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1169640506-a8f37dfbec3249a293d9b664dd31e993.jpg",
+        "description": "Health patients can expect comprehensive and individualized cancer care, delivered in convenient locations across bangladesh"
+    },
+    {
+        "key": 5,
+        "name": " Orthopedic",
+        "img": "https://media.istockphoto.com/photos/therapist-showing-knee-joint-model-picture-id1133629763?k=20&m=1133629763&s=612x612&w=0&h=DdeB0NPo2IcA_nsVFQXjfKBMwGPGLWooPZFlHck0_uc=",
+        "description": "Orthopaedics is the medical specialty that focuses on injuries and diseases of your body's musculoskeletal system. This complex system, which includes your bones, joints, ligaments, tendons, muscles, and nerves, allows you to move, work"
+    },
+    {
+        "key": 6,
+        "name": "Physiotherapy",
+        "img": "https://i2.wp.com/physiocentersofafrica.com/wp-content/uploads/2018/09/physioandpatient_3.jpg?fit=1024%2C683&ssl=1",
+        "description": "Physical therapy, also known as physiotherapy, is one of the allied health professions. It is provided by physical therapists who promote, maintain, or restore health through physical examination, diagnosis, prognosis"
+    }
+]
